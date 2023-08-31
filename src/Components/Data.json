@@ -1,0 +1,72 @@
+
+[
+  {
+ "finance":[ 
+  {
+     "id": 1,
+    "title": "Earth is our lovely planet where we live .",
+    "date": "2023-07-24",
+    "author": "sushil modi",
+    "description":"Earth is the third planet from the Sun and the only known celestial body to support life. It has a diverse range of ecosystems, including oceans, forests, deserts, and more. Earth is also known as the 'Blue Planet' due to its abundant water. It takes approximately 365.25 days to orbit the Sun, giving rise to our concept of a year.",
+    "content": "Earth is the third planet from the Sun and the only known celestial body to support life. It has a diverse range of ecosystems, including oceans, forests, deserts, and more. Earth is also known as the 'Blue Planet' due to its abundant water. It takes approximately 365.25 days to orbit the Sun, giving rise to our concept of a year.",
+    "category": "science",
+    "area": "world",
+    "tags": ["earth", "planet", "science", "life"],
+    "image":"./image/.png",
+    "likes": 1200,
+    "views": 30000,
+    "related_pages": [2, 3],
+    "external_links": ["https://example.com/earth-facts"],
+    "language": "English"
+  },
+  
+  {
+     "id": 2,
+    "title": "Putin is president of Russia.He is one of  the strongest man .He is president since 2000 expect 2008-2012.",
+    "date": "2023-07-24",
+    "author": "sushil modi",
+    "description":"Vladimir Putin, Russian intelligence officer and politician who served as president (1999–2008, 2012– ) of Russia and also was the country’s prime minister (1999, 2008–12). Putin studied law at Leningrad State University, where his tutor was Anatoly Sobchak, later one of the leading",
+    "content": "Earth is the third planet from the Sun and the only known celestial body to support life. It has a diverse range of ecosystems, including oceans, forests, deserts, and more. Earth is also known as the 'Blue Planet' due to its abundant water. It takes approximately 365.25 days to orbit the Sun, giving rise to our concept of a year.",
+    "category": "world politics",
+    "area": "world",
+    "tags": ["earth", "planet", "science", "life"],
+    "image": "./image/putin.png",
+    "likes": 1200,
+    "views": 30000,
+    "related_pages": [2, 3],
+    "external_links": ["https://example.com/earth-facts"],
+    "language": "English"
+  }, {
+     "id": 2,
+    "title": "Putin is president of Russia.He is one of  the strongest man .He is president since 2000 expect 2008-2012.",
+    "date": "2023-07-24",
+    "author": "sushil modi",
+    "description":"Vladimir Putin, Russian intelligence officer and politician who served as president (1999–2008, 2012– ) of Russia and also was the country’s prime minister (1999, 2008–12). Putin studied law at Leningrad State University, where his tutor was Anatoly Sobchak, later one of the leading",
+    "content": "Earth is the third planet from the Sun and the only known celestial body to support life. It has a diverse range of ecosystems, including oceans, forests, deserts, and more. Earth is also known as the 'Blue Planet' due to its abundant water. It takes approximately 365.25 days to orbit the Sun, giving rise to our concept of a year.",
+    "category": "world politics",
+    "area": "world",
+    "tags": ["earth", "planet", "science", "life"],
+    "image": "./image/putin.png",
+    "likes": 1200,
+    "views": 30000,
+    "related_pages": [2, 3],
+    "external_links": ["https://example.com/earth-facts"],
+    "language": "English"}]
+  },{
+     "id": 2,
+    "title": "Putin is president of Russia.He is one of  the strongest man .He is president since 2000 expect 2008-2012.",
+    "date": "2023-07-24",
+    "author": "sushil modi",
+    "description":"Vladimir Putin, Russian intelligence officer and politician who served as president (1999–2008, 2012– ) of Russia and also was the country’s prime minister (1999, 2008–12). Putin studied law at Leningrad State University, where his tutor was Anatoly Sobchak, later one of the leading",
+    "content": "Earth is the third planet from the Sun and the only known celestial body to support life. It has a diverse range of ecosystems, including oceans, forests, deserts, and more. Earth is also known as the 'Blue Planet' due to its abundant water. It takes approximately 365.25 days to orbit the Sun, giving rise to our concept of a year.",
+    "category": "world politics",
+    "area": "world",
+    "tags": ["earth", "planet", "science", "life"],
+    "image": "./image/putin.png",
+    "likes": 1200,
+    "views": 30000,
+    "related_pages": [2, 3],
+    "external_links": ["https://example.com/earth-facts"],
+    "language": "English"
+  }
+]
